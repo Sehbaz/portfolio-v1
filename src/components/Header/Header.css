@@ -45,3 +45,13 @@
 .navButton:hover {
     background-color: rgba(100, 255, 218, 0.1);
 }
+
+.mainLogo {
+    border: 2px solid #64ffda;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.mainLogo:hover {
+    background-color: rgba(100, 255, 218, 0.1);
+}

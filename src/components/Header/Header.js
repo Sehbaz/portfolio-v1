@@ -4,7 +4,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="header-contanier">
-      <div className="greenText">Sehbaz</div>
+      <div className="greenText mainLogo">SR</div>
       <div className="linkContainer">
         <div className="navLink">
           <span className="greenText">01.</span>About
