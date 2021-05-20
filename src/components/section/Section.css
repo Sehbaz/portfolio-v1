@@ -1,5 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
 .section-container {
-    color: white;
-    margin-top: 11vh;
     width: 80%;
+    margin: 80px;
+}
+
+.heading-1 {
+    color: #CCD6F6;
+    font-size: 6rem;
+    margin: 0;
+}
+
+.heading-2 {
+    color: #8892B0;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.heading-3 {
+    color: #8892B0;
+    font-size: 1rem;
+    width: 50%;
+}
+
+.green-text {
+    color: #64ffda;
+    margin: 0;
+    font-family: 'Space Mono', monospace;
+}
+
+.about-section {
+    padding-top: 150px;
+    height: 80vh;
+    color: white;
+}
+
+@media only screen and (max-width: 768px) {
+    .about-section {
+        padding-top: 200px;
+    }
+
+    .heading-1 {
+
+        font-size: 4rem;
+
+    }
+
+    .heading-2 {
+
+        font-size: 3rem;
+
+    }
+
+    .heading-3 {
+
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .section-container {
+        max-width: 1300px;
+    }
 }
