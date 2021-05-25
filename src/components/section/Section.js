@@ -40,7 +40,10 @@ function Section() {
               </div>
             </div>
             <div class="column">
-              <div class="green-column">Some Text in Column Two</div>
+              <div class="green-column">
+                {" "}
+                <img src="https://github.com/Sehbaz/image-storage/blob/main/download.png?raw=true"></img>
+              </div>
             </div>
           </div>
         </div>
@@ -62,7 +65,10 @@ function Section() {
               </div>
             </div>
             <div class="column">
-              <div class="green-column">Some Text in Column Two</div>
+              <div class="green-column">
+                {" "}
+                <img src="https://github.com/Sehbaz/image-storage/blob/main/download.png?raw=true"></img>
+              </div>
             </div>
           </div>
         </div>
@@ -84,7 +90,10 @@ function Section() {
               </div>
             </div>
             <div class="column">
-              <div class="green-column">Some Text in Column Two</div>
+              <div class="green-column">
+                {" "}
+                <img src="https://github.com/Sehbaz/image-storage/blob/main/download.png?raw=true"></img>
+              </div>
             </div>
           </div>
         </div>
@@ -106,7 +115,10 @@ function Section() {
               </div>
             </div>
             <div class="column">
-              <div class="green-column">Some Text in Column Two</div>
+              <div class="green-column">
+                {" "}
+                <img src="https://github.com/Sehbaz/image-storage/blob/main/download.png?raw=true"></img>
+              </div>
             </div>
           </div>
         </div>
